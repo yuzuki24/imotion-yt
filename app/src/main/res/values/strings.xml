@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Imotion</string>
+    <string name="bottom_nav_members">MEMBERS</string>
+    <string name="bottom_nav_top">TOP</string>
+    <string name="bottom_nav_news">NEWS</string>
+    <string name="article_date_format">yyyy年 M月d日</string>
+    <string name="option_back_to_st002">ユニット選択画面へ</string>
+</resources>
